@@ -1,14 +1,13 @@
 *{
-  margin: 0;
-  padding: 0;
   font-family: Arial, Helvetica, sans-serif;
   color:  rgba(0,0,0,0.8);
-  font-weight: 25;
+
 }
 header{
   display: flex;
   align-items: center;
   box-shadow: 0px 1px 5px rgba(0,0,0,0.5);
+  font-weight: 25;
 }
 
 header img{
