@@ -1,49 +1,70 @@
-# Justa @ Desafios de Seleção
+# Getting Started with Create React App
 
-## Vagas Disponíveis
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-- 2x Desenvolvedor(a) Backend
-- 2x Desenvolvedor(a) Frontend
-- 1x Analista de Banco de Dados (DBA)
-- 1x DevOps
+## Available Scripts
 
-Maiores detalhes em: https://jobs.kenoby.com/justa
+In the project directory, you can run:
 
-## Requisitos Mínimos
+### `npm start`
 
-- Ter, no mínimo, 2+ anos de experiência comprovada (Profissional ou Acadêmica)
-- Noções fortes de lógica, raciocínio rápido e foco
-- Ótima comunicação
-- Entregar mais do que é esperado
-- Trabalho em equipe com confiança
-- Disponibilidade para morar em Recife / PE
-  - Não fazemos trabalhos remotos!
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-## Quem somos?
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-Acreditamos que para tornar o mercado mais justo é preciso começar sendo transparente, não ter letras miúdas e nem asteriscos.
-Quanto mais exigirmos que isso aconteça, maior a nossa chance de termos uma nova realidade no mercado.
-Há muitas maneiras de aceitar cartões e aí que entramos em cena, com **taxas JUSTAS**, **crédito fácil, rápido e sempre com um JUSTO de confiança perto de você**.
-Muito prazer, **somos a JUSTA**!
+### `npm test`
 
-## Onde estamos?
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### Sede - Alphaville (SP)
+### `npm run build`
 
-Toda a nossa equipe operacional, ajuda, QA, comercial e logística fica lá em Alphaville - São Paulo.
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-[Alameda Xingú, 350, Empresarial iTower Iguatemi - Alphaville Industrial, Barueri / SP](https://www.google.com/maps/place/JUSTA+COM+VC/@-23.4977729,-46.8307726,21z/data=!4m5!3m4!1s0x0:0xdb55bd5c09eb9664!8m2!3d-23.5049645!4d-46.849015)
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-### Filial - Recife (PE)
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-Toda a equipe de Tecnologia da Informação (TI) fica lá em Recife - Pernambuco.
+### `npm run eject`
 
-[Avenida Antônio de Góes, 742, Empresarial Jopin - Pina, Recife / PE](https://goo.gl/maps/aEujw84xMokDW5Vv7)
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-## Como funcionam os desafios?
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Você deve enviar um e-mail para it-recife@justa.com.vc avisando que você tem a intenção de concorrer para uma das vagas disponíveis junto com o seu CV ou LinkedIn e uma carta apresentação falando mais sobre você, suas experiências e seus hobbies.
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-Depois você deve realizar um Fork deste repositório e realizar todo o desenvolvimento na pasta do desafio que irá se candidatar. Vamos analisar todo o seu processo de desenvolvimento desde análise de código, versionamento, documentação e boas práticas!
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-Sinta-se à vontade para tirar dúvidas com os **TechnoJustos** sempre que quiser!
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
