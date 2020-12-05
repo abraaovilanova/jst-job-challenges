@@ -15,11 +15,11 @@ export default ({value, show, close}) => {
                 </div>
                 <div className="modal-content">
                     <div className="modal-img">
-                        <img src={value.media.source} alt="imagem do produto"/>
+                        <img data-testid="media" src={value.media.source} alt="imagem do produto"/>
                     </div>
                     <div className="modal-body">
-                        <h4>{`${value.name}`}</h4>
-                        <p dangerouslySetInnerHTML={{ __html: value.description }}></p>
+                        <h4 data-testid="name">{`${value.name}`}</h4>
+                        <p data-testid="description" dangerouslySetInnerHTML={{ __html: value.description }}></p>
                     </div>
                 </div>
                 <div className="modal-footer">

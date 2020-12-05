@@ -21,7 +21,7 @@ useEffect(() => {
   return (
       <>
          <header>
-              <img src={logo} alt="Help Bolos Store" height="50px" />
+              <img src={logo} alt="Justa Pagamentos" height="50px" />
               <h1> Bem vindo a Justa</h1>
         </header>
         

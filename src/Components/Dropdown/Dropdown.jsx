@@ -23,7 +23,7 @@ export default ({opcoes, prompt, value, onChange}) => {
         setOpen(e && e.target === ref.current)
     }
 
-    function filter(options) {
+    function filter(opcoes) {
         return opcoes.filter((opcao) => 
             opcao.name.toLowerCase().indexOf(query.toLowerCase()) > -1)
     }
@@ -42,7 +42,7 @@ export default ({opcoes, prompt, value, onChange}) => {
             <div className="dropdown">
                 <div className="control" onClick={()=> setOpen((prev) => !prev)}>
                     <div className="selected-value">
-                        <input 
+                        <input
                             type="text" 
                             ref={ref} 
                             placeholder={value ? value.Name : prompt}
@@ -61,6 +61,7 @@ export default ({opcoes, prompt, value, onChange}) => {
                     {
                         filter(opcoes).map((opcao) => (
                         <div 
+                        data-testid="display" 
                         className={`option ${value === opcao ? 'selected' : null}`}
                         onClick={()=>{
                             setQuery('')
