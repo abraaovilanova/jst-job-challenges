@@ -1,7 +1,7 @@
 import React, {useState, useEffect} from 'react'
 import './App.css'
 import { commerce } from './lib/commerce'
-import Dropdown from './Dropdown/Dropdown'
+import Dropdown from './Components/Dropdown/Dropdown'
 import logo from './assets/logo_justa.png'
 
 function App() {
