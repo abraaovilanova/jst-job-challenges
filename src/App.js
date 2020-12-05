@@ -22,7 +22,7 @@ useEffect(() => {
       <>
          <header>
               <img src={logo} alt="Justa Pagamentos" height="50px" />
-              <h1> Bem vindo a Justa</h1>
+              <h1> Bem-vindo à Justa!</h1>
         </header>
         
         <main>
