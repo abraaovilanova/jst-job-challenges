@@ -6,7 +6,6 @@ export default ({value, show, close}) => {
         return (
             <div className="modal-wrapper" 
                 style={{
-                    transform: show ? 'translate(0vh)' : 'translate(-100vh)',
                     opacity: show ? '1' : '0'
                 }}>
     
