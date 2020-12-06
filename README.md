@@ -2,20 +2,23 @@
 ![image info](./img/banner.png)
 
 ### :computer: O Deploy da aplicação
+O deploy da aplicação foi feito no 
 [Deploy](https://desafio-justa.herokuapp.com/)
 
-### :file_folder: O Projeto
+### :file_folder: Objetivo do Projeto
 Criar uma página com uma listagem de itens e ao selecionar um item, um card deverá ser exibido com os detalhes deste item. O card de detalhes deverá ter os seguintes itens:
 - magem para representar o item escolhido;
 - Título do Item;
 - Subtítulo do item;
 - Botão para fechar o card e limpar o item escolhido no input.
 
-### :telescope: Tecnologias
+### :telescope: Tecnologias utilizadas
 
-- Node.js
-- react.js
-- commerce.js
+- [git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en/)
+- [npm](https://www.npmjs.com/)
+- [react.js](https://pt-br.reactjs.org/)
+- [commerce.js](https://commercejs.com/)
 
 ### :information_source: Como usar
 Para clonar e rodar esta aplicação você vai precisar [Git](https://git-scm.com)
@@ -36,11 +39,4 @@ $ npm install commerce.js
 $ npm start
 ```
 
-### :gift: Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-Please make sure to update tests as appropriate.
-
-
-
-Feito por Abraão Vila nova
+Feito com :gift_heart: por Abraão Vila nova
