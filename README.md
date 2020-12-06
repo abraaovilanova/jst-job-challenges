@@ -20,8 +20,8 @@ Criar uma página com uma listagem de itens e ao selecionar um item, um card dev
 - [commerce.js](https://commercejs.com/)
 
 ### :information_source: Como usar
-Para clonar e rodar esta aplicação você vai precisar [Git](https://git-scm.com)
- [Node.js v15.2.1](https://nodejs.org/en/) ou superir + [npm v6.14.8](https://www.npmjs.com/) ou superior instalado no seu computador.
+Para clonar e rodar esta aplicação você vai precisar do [Git](https://git-scm.com),
+ [Node.js v15.2.1](https://nodejs.org/en/) ou superir + [npm v6.14.8](https://www.npmjs.com/) ou superior instalados no seu computador.
 
 No prompt digite os seguintes comandos:
 
@@ -32,7 +32,7 @@ $ git clone https://github.com/abraaovilanova/jst-job-challenges
 $ cd jst-job-challenges
 # Instale as dependencias para rodar o servidor
 $ npm install
-# Instale a biblioteca
+# Instale a biblioteca com API dos produtos
 $ npm install @chec/commerce.js
 # rodar o servidor
 $ npm start
