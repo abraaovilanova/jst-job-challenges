@@ -12,17 +12,30 @@ Criar uma página com uma listagem de itens e ao selecionar um item, um card dev
 - Subtítulo do item;
 - Botão para fechar o card e limpar o item escolhido no input.
 
-### Tecnologias
+### :telescope: Tecnologias
 
 - Node.js
 - react js
 - commerce.js
 
-### Como usar
+### :information_source: Como usar
 
-``*npm install -g create-react-app*``
-``cd jst-job-challenges`` 
-``npm start`` 
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [npm v1.13][npm] or higher installed on your computer.
+From your command line:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/abraaovilanova/jst-job-challenges
+# Go into the repository
+$ cd climate-app
+# Install dependencies for the frontend and run the server
+$ npm install
+$ npm start
+
+### :gift: Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Please make sure to update tests as appropriate.
 
 
 
