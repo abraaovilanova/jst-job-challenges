@@ -18,6 +18,7 @@ Criar uma página com uma listagem de itens e ao selecionar um item, um card dev
 - commerce.js
 
 ### Como usar
+`` npm start ``
 
 
 Feito por Abraão Vila nova
