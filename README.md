@@ -1,11 +1,10 @@
-# Job Challenges Front-End Justa Pagamentos
 ## Teste Rápido para vaga de Front-End da Justa Pagamentos
 ![image info](./img/banner.png)
 
-### O Deploy da aplicação
+### :computer: O Deploy da aplicação
 [Deploy](https://desafio-justa.herokuapp.com/)
 
-### O Projeto
+### :file_folder: O Projeto
 Criar uma página com uma listagem de itens e ao selecionar um item, um card deverá ser exibido com os detalhes deste item. O card de detalhes deverá ter os seguintes itens:
 - magem para representar o item escolhido;
 - Título do Item;
@@ -15,13 +14,14 @@ Criar uma página com uma listagem de itens e ao selecionar um item, um card dev
 ### :telescope: Tecnologias
 
 - Node.js
-- react js
+- react.js
 - commerce.js
 
 ### :information_source: Como usar
+Para clonar e rodar esta aplicação você vai precisar [Git](https://git-scm.com)
+ [Node.js v15.2.1][nodejs] ou superir + [npm v6.14.8][npm] ou superior instalado no seu computador.
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [npm v1.13][npm] or higher installed on your computer.
-From your command line:
+No prompt digite os seguintes comandos:
 
 ```bash
 # Clone este repositório
