@@ -14,7 +14,7 @@ Criar uma página com uma listagem de itens e ao selecionar um item, um card dev
 
 ### :telescope: Tecnologias utilizadas
 
-- [git](https://git-scm.com/)
+- [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en/)
 - [npm](https://www.npmjs.com/)
 - [react.js](https://pt-br.reactjs.org/)
@@ -34,9 +34,17 @@ $ cd jst-job-challenges
 # Instale as dependencias para rodar o servidor
 $ npm install
 # Instale a biblioteca
-$ npm install commerce.js
+$ npm install @chec/commerce.js
 # rodar o servidor
 $ npm start
+```
+### :mag: Testes
+- Foi usado um teste para orientar o que esperava-se dos blocos de códigos a serem programados;
+
+- Para verificar se qualquer alteração realizada atende aos requisitos solicitados, acesse o terminal e execute o seguinte comando:
+
+```bash
+$ npm test
 ```
 
 Feito com :gift_heart: por Abraão Vila nova
