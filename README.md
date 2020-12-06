@@ -27,10 +27,11 @@ From your command line:
 # Clone this repository
 $ git clone https://github.com/abraaovilanova/jst-job-challenges
 # Go into the repository
-$ cd climate-app
+$ cd jst-job-challenges
 # Install dependencies for the frontend and run the server
 $ npm install
 $ npm start
+```
 
 ### :gift: Contributing
 
