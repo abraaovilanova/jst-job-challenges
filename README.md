@@ -20,11 +20,10 @@ Criar uma página com uma listagem de itens e ao selecionar um item, um card dev
 
 ### Como usar
 
-``
-npm install -g create-react-app
-cd jst-job-challenges 
-npm start 
-``
+``*npm install -g create-react-app*``
+``cd jst-job-challenges`` 
+``npm start`` 
+
 
 
 Feito por Abraão Vila nova
