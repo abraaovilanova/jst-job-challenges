@@ -24,12 +24,15 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 From your command line:
 
 ```bash
-# Clone this repository
+# Clone este repositório
 $ git clone https://github.com/abraaovilanova/jst-job-challenges
-# Go into the repository
+# Acesse a pasta do projeto
 $ cd jst-job-challenges
-# Install dependencies for the frontend and run the server
+# Instale as dependencias para rodar o servidor
 $ npm install
+# Instale a biblioteca
+$ npm install commerce.js
+# rodar o servidor
 $ npm start
 ```
 
