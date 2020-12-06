@@ -15,10 +15,16 @@ Criar uma página com uma listagem de itens e ao selecionar um item, um card dev
 ### Tecnologias
 
 - Node.js
+- react js
 - commerce.js
 
 ### Como usar
-`` npm start ``
+
+``
+npm install -g create-react-app
+cd jst-job-challenges 
+npm start 
+``
 
 
 Feito por Abraão Vila nova
