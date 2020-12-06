@@ -2,8 +2,7 @@
 ![image info](./img/banner.png)
 
 ### :computer: O Deploy da aplicação
-O deploy da aplicação foi feito no 
-[Deploy](https://desafio-justa.herokuapp.com/)
+Acesse o deploy da aplicação no [herokuapp](https://desafio-justa.herokuapp.com/)
 
 ### :file_folder: Objetivo do Projeto
 Criar uma página com uma listagem de itens e ao selecionar um item, um card deverá ser exibido com os detalhes deste item. O card de detalhes deverá ter os seguintes itens:
@@ -22,7 +21,7 @@ Criar uma página com uma listagem de itens e ao selecionar um item, um card dev
 
 ### :information_source: Como usar
 Para clonar e rodar esta aplicação você vai precisar [Git](https://git-scm.com)
- [Node.js v15.2.1][nodejs] ou superir + [npm v6.14.8][npm] ou superior instalado no seu computador.
+ [Node.js v15.2.1](https://nodejs.org/en/) ou superir + [npm v6.14.8](https://www.npmjs.com/) ou superior instalado no seu computador.
 
 No prompt digite os seguintes comandos:
 
@@ -47,4 +46,4 @@ $ npm start
 $ npm test
 ```
 
-Feito com :gift_heart: por Abraão Vila nova
+Feito com :gift_heart: por Abraão Vila Nova
