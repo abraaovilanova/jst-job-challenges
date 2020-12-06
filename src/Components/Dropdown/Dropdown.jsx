@@ -29,13 +29,20 @@ export default ({opcoes, prompt, value, onChange}) => {
     }
 
     function displayValue(){
-        if (query.length > 0) return query
+
+        if (query.length >= 0) return query
         if (value) return value.name
         return ''
+
+        
     }
 
-    const closeModalHandler = () => setShow(false)
-  
+    const closeModalHandler = () => {
+        setShow(false)
+        onChange(null)
+    }
+
+
 
     return (
         <>
@@ -43,9 +50,10 @@ export default ({opcoes, prompt, value, onChange}) => {
                 <div className="control" onClick={()=> setOpen((prev) => !prev)}>
                     <div className="selected-value">
                         <input
+                            id="myInput"
                             type="text" 
                             ref={ref} 
-                            placeholder={value ? value.Name : prompt}
+                            placeholder={value ? value.name : prompt}
                             value={displayValue()}
                             onChange={e =>{
                                 setQuery(e.target.value)

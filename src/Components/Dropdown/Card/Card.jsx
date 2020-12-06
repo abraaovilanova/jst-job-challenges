@@ -25,15 +25,10 @@ export default ({value, show, close}) => {
                 <div className="modal-footer">
                         <button className="btn-cancel" onClick={close}>Fechar</button>
                 </div>
-
-    
-
-    
             </div>
         )
         
     }else {
         return <></>
     }
-    
 }
